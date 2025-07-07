@@ -66,5 +66,19 @@ Create a .env file in the root directory and paste this into it:
 ```bash
  python main.py
 ```
+### 5.Input & Output
+User Input:
 
+📄 Text: Paste or write informal event details
+
+🎙️ Audio: Upload or record a voice description
+
+Output:
+A short, energetic case study with:
+
+✅ Challenge — brand’s goal or problem
+
+✅ Solution — how iBoothMe solved it
+
+✅ Results (optional) — only if clear success metrics are mentioned (max 3 bullet points)
 
